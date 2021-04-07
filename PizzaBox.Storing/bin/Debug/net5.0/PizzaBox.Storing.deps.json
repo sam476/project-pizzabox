@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PizzaBox.Storing/1.0.0": {
+        "dependencies": {
+          "PizzaBox.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaBox.Storing.dll": {}
+        }
+      },
+      "PizzaBox.Domain/1.0.0": {
+        "runtime": {
+          "PizzaBox.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaBox.Storing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaBox.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
